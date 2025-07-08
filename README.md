@@ -1,2 +1,1 @@
-# kinobot.php
-salomat 
+
